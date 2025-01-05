@@ -9,6 +9,9 @@ Demonstration:
 
 It works only for ESP32S3-CAM XIAO Board.<br>
 
+<img width="550" alt="XIAO-CAM" src="https://github.com/user-attachments/assets/723252a9-b90d-434c-a5ac-3ea397232493" />
+
+
 Hope this helps you.
 
 XIAO Camera<br>
